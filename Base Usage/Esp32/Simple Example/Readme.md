@@ -11,10 +11,10 @@ In this example three LEDs and two hardware buttons are used. One to indicate th
 ### What the program does
 ---
 
-Buttons:
+**Buttons:**
 - If the first button is pressed, the respective event will be raised in the [LaRoomy Callback Interface](https://api.laroomy.com/p/laroomy-app-callback.html).
 In this example the event is used to update the property.
 - The second button does nothing, only a message will be reported through the serial monitor.
 
-Switches:
+**Switches:**
 - Every switch is used to control a LED. But the hardware buttons can also control the LEDs. This is a demonstration how to keep the alignment between app-state and hardware-state. When a hardware button is used to change the state of a LED, this must be reported to the LaRoomy Api to keep the internal state in the same condition as the real hardware state. When you press the hardware button while the app is connected, look at the switch inside of the app, it will update in respect to the state of the LEd.
