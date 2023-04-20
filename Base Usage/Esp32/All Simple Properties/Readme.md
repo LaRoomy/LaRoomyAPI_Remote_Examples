@@ -1,6 +1,6 @@
 # All Simple Properties
 
-This Example demonstrates all **Simple Properties** that could be used with the [LaRoomy Api](https://api.laroomy.com/).
+This example demonstrates all **Simple Properties** that could be used with the [LaRoomy Api](https://api.laroomy.com/).
 
 ## Hardware
 
