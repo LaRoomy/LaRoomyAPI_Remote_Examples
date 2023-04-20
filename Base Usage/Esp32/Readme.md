@@ -4,3 +4,5 @@ This is a collection of examples to demonstrate the basic features and usage of 
 All Examples come with a schematic to show the experimental setup.
 
 Detailed descriptions to a particular repository can be found on the respective example page or in the code file of the example.
+
+![esp32 and laroomy app image](Resources/IMG_4297.JPEG)
