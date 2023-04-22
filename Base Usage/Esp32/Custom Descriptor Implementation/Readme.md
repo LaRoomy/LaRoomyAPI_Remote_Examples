@@ -8,7 +8,7 @@ This example demonstrates how descriptors for properties could be set dynamicall
 
 # What the program does
 
-The properties are added to the [LaRoomy API](https://api.laroomy.com/), but all text elements are omitted, they will be requested dynamically later.
+The properties are added to the [LaRoomy API](https://api.laroomy.com/), but all text elements are omitted. They will be requested dynamically later.
 To get this working a subclass of the IElementDescriptionCallback interface must be defined and added to the LaRoomy API.
 Later when the app requests the device properties a request is raised in this callback class and in a response to this the appropriate element text must be
 provided.
