@@ -9,5 +9,5 @@
  
  ## Resources
  - Visit the [LaRoomy API](https://api.laroomy.com/) website
- - Visit the [LaRoom App](https://www.laroomy.com/) website
+ - Visit the [LaRoomy App](https://www.laroomy.com/) website
  
