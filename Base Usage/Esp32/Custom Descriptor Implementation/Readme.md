@@ -15,6 +15,6 @@ provided.
 
 # Resources
 - [IElementDescriptionCallback](https://api.laroomy.com/p/descriptor-callback.html)
-- [Keep in mind the special descriptor syntax for some properties](https://api.laroomy.com/2023/03/property-descriptor-syntax.html)
+- [Property descriptor syntax](https://api.laroomy.com/2023/03/property-descriptor-syntax.html)
 
 
