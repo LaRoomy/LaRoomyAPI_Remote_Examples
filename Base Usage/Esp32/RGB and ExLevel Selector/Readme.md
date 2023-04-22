@@ -27,3 +27,5 @@ With the OptionSelector the setup of a custom color table for the transition pro
 ## Resources
 - [RGBControl helper class](https://api.laroomy.com/p/helper-classes.html#laroomyApiRefMIDRGBCtrl)
 - [Defining the state of a RGBSelector](https://api.laroomy.com/p/property-state-classes.html#propStateClsUsage)
+- [ExtendedLevelSelector class](https://api.laroomy.com/p/property-classes.html#laroomyApiRefMIDExLevelSel)
+- [OptionSelector class](https://api.laroomy.com/p/property-classes.html#laroomyApiRefMIDOptionSel)
