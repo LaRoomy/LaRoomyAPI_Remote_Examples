@@ -4,7 +4,7 @@ This example demonstrates how descriptors for properties could be set dynamicall
 # Hardware
 - Three LEDs are used in this example. One to indicate the connection status. The remaining LEDs can be toggled by the two button properties. The schematic shows the common test circuit - not all elements are used.
 
-![Test Circuit](TestCircuit_NanoIoT_Common.png)
+![Test Circuit](TestCircuit_NanoIot_Common.png)
 
 # What the program does
 
