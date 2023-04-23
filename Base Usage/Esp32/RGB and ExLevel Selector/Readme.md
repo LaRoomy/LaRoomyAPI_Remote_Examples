@@ -7,7 +7,7 @@ Example for the usage of the RGB-Selector and the ExtendedLevelSelector.
 - 2 LEDs are used. One to indicate the connection status and the other one to display the output of the ExtendedLevelSelector.
 - 3 Pins are used for the RGB output. Three logic level FETs are used to transform the signal to working voltage.
 
-![Test circuit](TestCircuit_NanoIoT_RGB_ExLevel.png)
+![Test circuit](TestCircuit_Esp32_RGB_ExLevel.png)
 
 ## What the program does
 
