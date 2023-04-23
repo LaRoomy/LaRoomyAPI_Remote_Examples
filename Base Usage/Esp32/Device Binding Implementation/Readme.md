@@ -1,6 +1,6 @@
 # Device Binding Implementation
 
-This example shows how an external processing of the device binding could be achieved.
+This example shows how external processing of the device binding could be achieved.
 
 ## Hardware
 Three LEDs are used in this example. One to indicate the connection status. 
