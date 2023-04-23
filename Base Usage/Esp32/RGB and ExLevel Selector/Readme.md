@@ -11,7 +11,7 @@ Example for the usage of the RGB-Selector and the ExtendedLevelSelector.
 
 ## What the program does
 
-In this program example four device properties are added: a RGBSelector, an OptionSelector, an ExtendedLevelSelector and a Switch. 
+In this example four device properties are added: a RGBSelector, an OptionSelector, an ExtendedLevelSelector and a Switch. 
 
 
 With the ExtendedLevelSelector a level can be selected by the app user. This is reported in the respective method of the remote events implementation. 
