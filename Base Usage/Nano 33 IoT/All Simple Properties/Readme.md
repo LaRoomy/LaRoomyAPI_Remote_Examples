@@ -4,7 +4,9 @@ This example demonstrates all **Simple Properties** that could be used with the 
 
 ## Hardware
 
-In this example two LEDs, two hardware buttons and one potentiometer are used.
+- Two LEDs are used for demonstration of the Switch and LevelSelector property
+- Two hardware buttons are used to demonstrate updating of device properties from remote side
+- One potentiometer is used to control the source voltage for the LevelIndicator
 
 ![Test Circuit](TestCircuit_NanoIoT_AllSimpleProperties.png)
 
