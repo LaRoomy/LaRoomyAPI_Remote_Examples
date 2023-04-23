@@ -4,7 +4,6 @@ This example demonstrates how the Bargraph and the Linegraph property could be u
 
 ## Hardware
 
-- 1 LED for the connection status indication
 - 1 hardware button to switch the data of the Bar- or the Linegraph
 - 1 Potentiometer to modify the current value for the live output on the example properties
 
