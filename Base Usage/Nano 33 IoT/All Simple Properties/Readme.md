@@ -4,7 +4,7 @@ This example demonstrates all **Simple Properties** that could be used with the 
 
 ## Hardware
 
-In this example three LEDs, two hardware buttons and one potentiometer are used.
+In this example two LEDs, two hardware buttons and one potentiometer are used.
 
 ![Test Circuit](TestCircuit_NanoIoT_AllSimpleProperties.png)
 
@@ -30,4 +30,5 @@ OptionSelector:
 
 Other:
 - The second hardware button is used to demonstrate how a important notification could be presented to the user by invoking the [sendUserMessage](https://api.laroomy.com/p/laroomy-api-class.html#laroomyApiRefMSendUserMsg) method on the LaRoomy Api
+- The built in LED indicates the connection status
 
