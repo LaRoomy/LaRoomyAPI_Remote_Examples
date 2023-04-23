@@ -4,7 +4,7 @@ This is a demonstration program for the UnlockControl and the NavigatorControl p
 
 ## Hardware
 
-- Three LEDs are used in this example. One to indicate the connection status. The other LEDs are to indicate the lock/unlock status
+- Two LEDs are used in this example. They indicate the lock/unlock status of UnlockControl property
 - One hardware button is used to reset the UnlockControl property
 
 The example schematic shows the common test circuit - not all elements are used.
