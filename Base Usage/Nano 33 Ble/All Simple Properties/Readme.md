@@ -4,7 +4,7 @@ This example demonstrates all **Simple Properties** that could be used with the 
 
 ## Hardware
 
-In this example three LEDs, two hardware buttons and one potentiometer are used.
+In this example two LEDs, two hardware buttons and one potentiometer are used.
 
 ![Test Circuit](Schematic_AllSimpleProperties_Nano33Ble.png)
 
