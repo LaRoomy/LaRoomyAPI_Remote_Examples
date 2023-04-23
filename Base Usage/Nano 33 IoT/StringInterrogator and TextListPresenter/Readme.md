@@ -4,7 +4,7 @@ This example demonstrates the usage of the StringInterrogator and TextListPresen
 
 ## Hardware
 
-- One LED is used to indicate the connection status
+- The built-in LED indicates the connection status
 - Two hardware buttons are used to add some items to the TextListPresenter
 
 The example schematic shows the common test circuit - not all elements are used.
