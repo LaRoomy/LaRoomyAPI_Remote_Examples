@@ -3,7 +3,8 @@ This example demonstrates how descriptors for properties could be set dynamicall
 
 # Hardware
 
-- Two LEDs are used in this example. The LEDs can be toggled by the two button properties. The built in LED indicates the connection status.
+- Two LEDs are used in this example. The LEDs can be toggled by the two button properties
+- The built in LED indicates the connection status.
 
 The schematic shows the common test circuit - not all elements are used.
 
