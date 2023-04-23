@@ -9,7 +9,7 @@ This example demonstrates the usage of the StringInterrogator and TextListPresen
 
 The example schematic shows the common test circuit - not all elements are used.
 
-![Test Circuit](TestCircuit_NanoIoT_Common.png)
+![Test Circuit](TestCircuit_NanoIot_Common.png)
 
 ## How the program works
 
