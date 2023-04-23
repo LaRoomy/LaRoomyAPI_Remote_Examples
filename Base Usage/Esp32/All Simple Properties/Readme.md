@@ -6,7 +6,7 @@ This example demonstrates all **Simple Properties** that could be used with the 
 
 In this example three LEDs, two hardware buttons and one potentiometer are used.
 
-![](TestCircuit_Esp32_AllSimpleProperties.png)
+![Test Circuit](TestCircuit_Esp32_AllSimpleProperties.png)
 
 ## What the program does
 
