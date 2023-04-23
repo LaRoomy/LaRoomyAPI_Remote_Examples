@@ -8,7 +8,7 @@ The remaining LEDs can be toggled by the two button properties.
 The schematic shows the common test circuit - not all elements are used.
 
 
-![Test circuit](TestCircuit_NanoIoT_Common.png)
+![Test circuit](TestCircuit_NanoIot_Common.png)
 
 ## What the program does
 
