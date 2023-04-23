@@ -5,7 +5,7 @@ This is a little starter example to get an overview of the implementation. Two t
 
 ## Hardware
 
-In this example three LEDs and two hardware buttons are used. One to indicate the connection status and the other two LEDs are for the remote control. The hardware buttons are also intended to control the LEDs.
+In this example two LEDs and two hardware buttons are used. The LEDs can be remote controlled by the switch properties. The hardware buttons are also intended to control the LEDs. The built-in LED is used to indicate the connection status.
 
 
 ![test circuit](TestCircuit_NanoIoT_SimpleExample.png)
