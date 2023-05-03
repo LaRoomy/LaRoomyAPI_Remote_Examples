@@ -109,7 +109,7 @@ void setup()
 
     bool wifi_success = false;
 
-    Serial.println("First check if credentials are exist..");
+    Serial.println("First check if credentials do exist..");
 
     // check if credentials were saved before
     String ssid;
