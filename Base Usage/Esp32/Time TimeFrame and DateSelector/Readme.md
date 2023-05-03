@@ -11,7 +11,7 @@ In this example the selectors for time and date are demonstrated.
 
 ## What the program does
 
-When the device gets connected and all properties are complete loaded, a time request is sent to the app. When the response is received, the current date is requested. Both, the time and date are displayed together in the TextDisplay property to monitor the internal time for testing.
+When the device gets connected and all properties are completely loaded, a time request is sent to the app. When the response is received, the current date is requested. Both, the time and date are displayed together in the TextDisplay property to monitor the internal time for testing.
 
 
 With the switch property the first LED can be switched on. To test the TimeSelector property a time can be selected, this time is the disable time for the first LED, when the selected time equals the current time, the LED is automatically switched off.
