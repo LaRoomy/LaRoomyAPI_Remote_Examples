@@ -31,6 +31,6 @@ OptionSelector:
 - The [OptionSelector](https://api.laroomy.com/p/property-classes.html#laroomyApiRefMIDOptionSel) does nothing explicitly. When the property has changed inside the app, the callback will be raised and a message will be displayed through the serial monitor
 
 Other:
-- The second hardware button is used to demonstrate how a important notification could be presented to the user by invoking the [sendUserMessage](https://api.laroomy.com/p/laroomy-api-class.html#laroomyApiRefMSendUserMsg) method on the LaRoomy Api
+- The second hardware button is used to demonstrate how am important notification could be presented to the user by invoking the [sendUserMessage](https://api.laroomy.com/p/laroomy-api-class.html#laroomyApiRefMSendUserMsg) method on the LaRoomy Api
 - The built in LED indicates the connection status
 
