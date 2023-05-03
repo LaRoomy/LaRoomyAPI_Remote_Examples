@@ -198,23 +198,6 @@ void loop()
             ;
         delay(50);
     }
-
-    // temp !!!!!!!!!!!!!!!!!:
-    // first hardware button is pressed
-    if (digitalRead(HBUTTON_2) == LOW)
-    {
-        delay(10);
-
-        // restart esp
-        Serial.println("Restarting..");
-
-        //Serial.end();
-        NVIC_SystemReset();
-
-        while (digitalRead(HBUTTON_1) == LOW)
-            ;
-        delay(50);
-    }
 }
 
 // Check out the full documentation at: https://api.laroomy.com/
